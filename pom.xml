@@ -25,6 +25,7 @@
       <artifactId>junit</artifactId>
       <version>4.11</version>
 	    <version>4.11</version>
+		<branch>feature</branch>
       <scope>test</scope>
     </dependency>
   </dependencies>
